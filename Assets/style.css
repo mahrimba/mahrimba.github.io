@@ -3,7 +3,7 @@ body {
     color:#b7b7a4;
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
-    text-align: justify;
+    text-align: center;
 }
 b {
     color:#6b705c
@@ -28,7 +28,7 @@ b {
   margin-right: auto;
   border-radius: 10px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  width: 70%;
+  width: 50%;
 }
 .photo .subtitle {
     margin-top: 10px;
