@@ -50,7 +50,7 @@ b {
     width: 50%;
 }
 #first-photo img {
-    width: auto;
+    width: 80%;
 }
 #second-text {
     clear:right;
@@ -67,7 +67,7 @@ b {
     width: 50%;
 }
 #third-photo img {
-    width: auto;
+    width: 80%;
 }
 #fourth-text {
     clear:both;
