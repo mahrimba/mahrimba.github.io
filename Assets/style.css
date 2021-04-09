@@ -37,38 +37,3 @@ b {
 #footer {
     font-size: 10px;
 }
-.texto {
-    clear:both;
-}
-#first-text {
-    float:left;
-    width: 50%;
-    text-align: left;
-}
-#first-photo {
-    float:right;
-    width: 50%;
-}
-#first-photo img {
-    width: auto;
-}
-#second-text {
-    clear:right;
-}
-
-#third-text {
-    float: right;
-    width: 50%;
-    text-align: right;
-}
-#third-photo {
-    float:left;
-    clear:left;
-    width: 50%;
-}
-#third-photo img {
-    width: auto;
-}
-#fourth-text {
-    clear:both;
-}
